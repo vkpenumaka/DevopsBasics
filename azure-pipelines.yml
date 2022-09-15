@@ -5,7 +5,7 @@
 
 trigger:
 - master
-
+#Test CI
 pool:
   vmImage: ubuntu-latest
 
